@@ -78,21 +78,15 @@ Building microservices that scale. Focus on real-world performance under load.
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dolamasa1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolamasa1&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dolamasa1&theme=radical&hide_border=true"/>
 </div>
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dolamasa1&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-### 💻 Most Used Languages (All Time)
+### 💻 Language Distribution (All Repositories)
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolamasa1&layout=donut&theme=radical&hide_border=true&langs_count=10&exclude_repo=repo-to-exclude)](https://github.com/dolamasa1)
-
-**Language breakdown across all repositories**
+![](https://github-readme-stats.vercel.app/api/wakatime?username=dolamasa1&layout=compact&theme=radical&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolamasa1&layout=donut-vertical&theme=radical&hide_border=true&langs_count=6)](https://github.com/dolamasa1)
 
 </div>
 
