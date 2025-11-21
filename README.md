@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Backend Engineer | Performance Focused**
+**Backend Engineer | Dedicated to Performance**
 
 ```typescript
 const ahmed = {
@@ -29,18 +29,18 @@ const ahmed = {
 
 </div>
 
-## 🚀 Featured Projects
+## 🚀 Highlighted Projects
 
 <div align="center">
 
 ### 💼 **MDSystem**
-*Production-grade Java application with SQL Server backend*
+*Java application for production use with a SQL Server backend*
 
 ### ⚡ **Performance Benchmarks**  
 *Spring Boot vs Node.js with real-world metrics*
 
 ### 🎨 **UI Components**
-*Reusable Java Swing libraries*
+*Reusable Components specially with java swing*
 
 </div>
 
@@ -69,22 +69,11 @@ const ahmed = {
 
 <div align="center">
 
-**Open to collaborations & growing open-source presence**  
-*Building scalable systems with measurable performance*
+**Open to collaborations & expanding its open-source presence**  
+*Constructing scalable systems with quantifiable results
+
+*
 
 </div>
 
 ---
-
-### 🔄 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-<div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=dolamasa1&color=blue&style=flat-square)
-
-</div>
